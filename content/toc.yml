@@ -11,3 +11,9 @@ toc:
     from: endpoints
   - generate: Models
     from: models
+  - group: User Experience
+    items:
+      - page: UX Guidelines
+        file: user-experience/uxguidelines-v3.md
+      - page: Data Minimization
+        file: user-experience/data-minimization.md
